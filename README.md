@@ -17,11 +17,11 @@ I am deeply passionate about **Machine Learning** and **Data Analysis**. I love 
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="My Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fil2405&show_icons=true&theme=radical&hide_border=true" alt="My Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUO_USERNAME&theme=radical&hide_border=true" alt="My Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fil2405&theme=radical&hide_border=true" alt="My Streak" />
 </p>
 
 ---
