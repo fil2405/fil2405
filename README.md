@@ -13,10 +13,3 @@ I am deeply passionate about **Machine Learning** and **Data Analysis**. I love 
 * **Dev Tools:** Git, VS Code, Jupyter Notebooks, Linux
 
 ---
-
-### 📊 My GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fil2405&show_icons=true&theme=radical)
-
----
-
