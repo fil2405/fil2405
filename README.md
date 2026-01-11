@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Filippo! 👋
 
-<!--
-**fil2405/fil2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student from Italy 🇮🇹, currently pursuing my Bachelor's degree at **UNICT** (University of Catania).
 
-Here are some ideas to get you started:
+I am deeply passionate about **Machine Learning** and **Data Analysis**. I love turning data into insights and building efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages & Tools
+
+* **Languages:** Python, Java, C++, SQL, C
+* **Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib
+* **Dev Tools:** Git, VS Code, Jupyter Notebooks, Linux
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="My Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUO_USERNAME&theme=radical&hide_border=true" alt="My Streak" />
+</p>
+
+---
+
