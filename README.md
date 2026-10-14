@@ -1,4 +1,4 @@
-# Hi, I'm Filippo Falzone 👋
+# Hi, I'm Filippo👋
 
 M.Sc. Student in **Artificial Intelligence & Big Data Analytics** at the University of Rome Tor Vergata.
 
